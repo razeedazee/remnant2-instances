@@ -1,10 +1,14 @@
+Info
+
+- Survivor / Apocalypse / Powerlevel 1 - 3
+
 Random Items Spawns
 
-- N/A
+- Simulcrum is in shed with Ripsaw
 
 Fixed Items spawns
 
-- Alumni Ring
+- Alumni Ring (if Nightweaver is killed)
 - Aberration Ripsaw
 
 Injectables
