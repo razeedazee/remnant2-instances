@@ -1,4 +1,3 @@
-
 Your saves come in two parts.
 
 `profile.sav` - This contains the information for you characters like their progress and inventory for up to 5 characters
@@ -21,6 +20,31 @@ This means you don't need a host to do these things. Here are some quick example
 - Load at a checkpoint before Tal'Ratha
 - Load at Nightweaver web with all key items
 - Load at any location or checkpoint with a unique world state for events, items or boss kills.
+
+## How to backup saves
+
+### Manually
+
+Windows key + R
+
+![](windows-run.png)
+
+### Windows Command via `cmd.exe` will backup to desktop
+
+```cmd
+Xcopy "C:\Users\%USERNAME%\Saved Games\Remnant2\Steam" "C:\Users\%USERNAME%\Desktop\Remnant 2\Steam\" /v /y /i /s
+```
+
+### RemnantSaveGuardian
+
+1. Download and install [Microsoft .NET 6.0](https://dotnet.microsoft.com/en-us/download) or greater
+2. Download the [latest release](https://github.com/Razzmatazzz/RemnantSaveGuardian/releases/latest/download/RemnantSaveGuardian.zip)
+3. Unzip the latest release to a folder of your choosing (probably not the same folder where you have the game installed)
+4. Run RemnantSaveGuardian.exe
+
+To export your current save to a selected destination you do this:
+
+![](rsg-export.png)
 
 ## How to use these
 
