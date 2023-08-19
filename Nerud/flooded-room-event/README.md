@@ -1,2 +1,2 @@
 ![](info/info.png)
-![](info/minimap)
+![](info/minimap.png)
