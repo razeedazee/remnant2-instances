@@ -34,7 +34,11 @@ There are lots of usefull possibilites here.
 
 ### Manually
 
-Windows key + R
+Windows key + R and paste this to go to the folder where you Steam ID folder will be. Back up the whole folder.
+
+```
+C:\Users\%USERNAME%\Saved Games\Remnant2\Steam
+```
 
 ![](info/windows-run.png)
 
