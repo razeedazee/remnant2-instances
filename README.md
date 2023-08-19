@@ -15,7 +15,7 @@ These save file contain your world progress info. Importantly, they are also whe
 
 This allows us to hot swap these saves with our profile by loading a save file that corresponds to the character number we want hot swapped.
 
-This means I you don't need a host to do these things as some quick examples.-
+This means you don't need a host to do these things. Here are some quick examples.
 
 - Open Hands for scrap
 - Load at a checkpoint before Tal'Ratha
@@ -26,20 +26,20 @@ This means I you don't need a host to do these things as some quick examples.-
 
 Each instance will have 5 identical copies of the instance for each potential character.
 
-1: Backup up your saves. They are located here for Steam.
+**1:** Backup up your saves. They are located here for Steam.
 
 ```
 C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 ```
 
-2: Delete the save file associated with your character.
+**2:** Delete the save file associated with your character.
 
-3: Hot swap in the instance you want with the corresponding save file
+**3:** Hot swap in the instance you want with the corresponding save file
 
-4: Load the game and play the instance.
+**4:** Load the game and play the instance.
 
-5: When done exit the game
+**5:** When done exit the game
 
-6: Restore you old save file, NOT your profile.sav.
+**6:** Restore you old save file, NOT your profile.sav.
 
 You will now have an updated profile and in you old world.
