@@ -27,7 +27,7 @@ This means you don't need a host to do these things. Here are some quick example
 
 Windows key + R
 
-![](windows-run.png)
+![](info/windows-run.png)
 
 ### Windows Command via `cmd.exe` will backup to desktop
 
@@ -44,7 +44,7 @@ Xcopy "C:\Users\%USERNAME%\Saved Games\Remnant2\Steam" "C:\Users\%USERNAME%\Desk
 
 To export your current save to a selected destination you do this:
 
-![](rsg-export.png)
+![](info/rsg-export.png)
 
 ## How to use these
 
