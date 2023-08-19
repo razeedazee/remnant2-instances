@@ -18,7 +18,7 @@ Character 5 = `save_4.sav`
 
 These save file contain your world progress info. Importantly, they are also where quest items are stored.
 
-This separation of inforomation allows us to hot swap these saves with our profile by loading a save file that corresponds to the character number we want hot swapped.
+This separation of information allows us to hot swap these saves with our profile by loading a save file that corresponds to the character number we want hot swapped.
 
 This means you don't need a host to do these things. Here are some quick examples.
 
