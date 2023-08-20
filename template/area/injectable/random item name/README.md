@@ -1,3 +1,7 @@
+Info
+
+- Survivor / Powerlevel 1 - 3
+
 Random Items Spawns
 
 - N/A
