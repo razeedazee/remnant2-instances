@@ -63,20 +63,22 @@ To export your current save to a selected destination you do this:
 
 Each instance will have 5 identical copies of the instance for each potential character.
 
+⚠️ Exit the game first. This must be done when the game is closed.
+
 **1:** Backup up your saves. They are located here for Steam.
 
 ```
 C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 ```
 
-**2:** Delete the save file associated with your character.
+**2:** Delete the `save_NUMBER.sav` file associated with your character. NOT your `profile.sav`
 
-**3:** Hot swap in the instance you want with the corresponding save file
+**3:** Swap in the instance you want with the corresponding save file
 
 **4:** Load the game and play the instance.
 
 **5:** When done exit the game
 
-**6:** Restore you old save file, NOT your profile.sav.
+**6:** Restore you old `save_NUMBER.sav` file, NOT your profile.sav.
 
-You will now have an updated profile and in you old world.
+You will now have an updated profile and be in your original world.
