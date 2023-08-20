@@ -82,3 +82,5 @@ C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 **6:** Restore you old `save_NUMBER.sav` file, NOT your profile.sav.
 
 You will now have an updated profile and be in your original world.
+
+🔷 You can host these instances for others.
