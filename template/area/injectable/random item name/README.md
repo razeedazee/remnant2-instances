@@ -1,6 +1,6 @@
 Info
 
-- Survivor / Powerlevel 1 - 3
+- Survivor / Power level 1 - 5
 
 Traits
 
@@ -19,6 +19,10 @@ Fixed Items spawns - conditional rewards
 - N/A
 
 Injectables
+
+- N/A
+
+Bosses
 
 - N/A
 
