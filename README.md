@@ -77,6 +77,10 @@ C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 
 **3:** Download and swap in the instance you want with the corresponding save file
 
+All instances are located here <https://github.com/razeedazee/remnant2-instances/tree/main/instances>
+
+⚠️ Organisation is a bit of a mess but i'll fix this with a more consistent method as I go along.
+
 🔷 Example: Let's say you want the [hand farm and stacked Cass shop instance](https://github.com/razeedazee/remnant2-instances/tree/main/instances/Farming/great%20sewers%20hands/Hands)
 
 Click on the save file corresponding to the character you need to use it with. `0` for your first, in this example.
