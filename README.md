@@ -79,7 +79,7 @@ C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 
 All instances are located here <https://github.com/razeedazee/remnant2-instances/tree/main/instances>
 
-⚠️ Organisation is a bit of a mess but i'll fix this with a more consistent method as I go along.
+⚠️ Organisation is a bit of a mess but i'll fix this with a more consistent method as I go along whislt trying to make sure the instance is a survivor power level 1 to 5.
 
 🔷 Example: Let's say you want the [hand farm and stacked Cass shop instance](https://github.com/razeedazee/remnant2-instances/tree/main/instances/Farming/great%20sewers%20hands/Hands)
 
