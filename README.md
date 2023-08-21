@@ -26,9 +26,9 @@ This means you don't need a host to do these things. Here are some quick example
 - Load at a checkpoint before Tal'Ratha
 - Load at Nightweaver web with all key items
 - Load at any location or checkpoint with a unique world state for events, items or boss kills.
-- Load prepped areas that have puzzles done and/ro areas explored and random drops listed.
+- Load prepped areas that have puzzles done and/or areas explored and random drops listed.
 
-There are lots of usefull possibilites here.
+<!-- There are lots of useful possibilities here. -->
 
 ## How to backup saves
 
@@ -43,6 +43,8 @@ C:\Users\%USERNAME%\Saved Games\Remnant2\Steam
 ![](info/windows-run.png)
 
 ### Windows Command via `cmd.exe` will backup to desktop
+
+Windows Key ⊞
 
 ```cmd
 Xcopy "C:\Users\%USERNAME%\Saved Games\Remnant2\Steam" "C:\Users\%USERNAME%\Desktop\Remnant 2\Steam\" /v /y /i /s
@@ -73,7 +75,17 @@ C:\Users\%USERNAME%\Saved Games\Remnant2\Steam\<STEAMID>
 
 **2:** Delete the `save_NUMBER.sav` file associated with your character. NOT your `profile.sav`
 
-**3:** Swap in the instance you want with the corresponding save file
+**3:** Download and swap in the instance you want with the corresponding save file
+
+🔷 Example: Let's say you want the [hand farm and stacked Cass shop instance](https://github.com/razeedazee/remnant2-instances/tree/main/instances/Farming/great%20sewers%20hands/Hands)
+
+Click on the save file corresponding to the character you need to use it with. `0` for your first, in this example.
+
+The click the download button to download this single file.
+
+![](info/download-save.png)
+
+Copy this save to your game save folder for Steam or Epic and replace the existing one (that you have been asked to backup multiple times by now)
 
 **4:** Load the game and play the instance.
 
