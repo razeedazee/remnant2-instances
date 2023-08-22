@@ -38,3 +38,5 @@ Notes:
 >
 
 ![](info/mini-map.png)
+
+![](info/info.png)
