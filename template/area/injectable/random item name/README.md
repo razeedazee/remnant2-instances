@@ -2,35 +2,38 @@
 
 If you are linked directly to this instance but don't understand how this works then read the [readme](https://github.com/razeedazee/remnant2-instances/blob/main/README.md)
 
-Info
+<hr>
 
-- Survivor / Power level 1 - 5
+Info:
 
-Traits
+- Difficulty: Survivor
+- Powerlevel: 1/5
 
-- N/A
-
-Random Items Spawns
-
-- N/A
-
-Fixed Items spawns
+Traits:
 
 - N/A
 
-Fixed Items spawns - conditional rewards
+Random Items Spawns:
 
 - N/A
 
-Injectables
+Fixed Items spawns:
 
 - N/A
 
-Bosses
+Fixed Items spawns - conditional rewards:
 
 - N/A
 
-Notes
+Injectables:
+
+- N/A
+
+Bosses:
+
+- N/A
+
+Notes:
 
 >
 
