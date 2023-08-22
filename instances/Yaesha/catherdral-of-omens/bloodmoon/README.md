@@ -4,7 +4,8 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info
 
-- Survivor / Power level 0
+- Difficulty: Survivor
+- Powerlevel: N/A
 
 Traits
 
@@ -16,7 +17,7 @@ Random Items Spawns
 
 Fixed Items spawns
 
-- Sagittarius Bow
+- N/A
 
 Fixed Items spawns - conditional rewards
 
