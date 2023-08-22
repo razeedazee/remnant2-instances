@@ -1,32 +1,43 @@
-Info
+⚠️ Warning ⚠️
 
-- Survivor / Powerlevel 1 - 3
+If you are linked directly to this instance but don't understand how this works then read the [readme](https://github.com/razeedazee/remnant2-instances/blob/main/README.md)
 
-Traits
+<hr>
+
+Info:
+
+- Difficulty: Survivor
+- Powerlevel: 1/5
+
+Traits:
 
 - N/A
 
-Random Items Spawns
+Random Items Spawns:
 
 - Vestige of Power
 
-Fixed Items spawns
+Fixed Items spawns:
 
 - Endaira's Endless Loop
 - Krell Axe
 - Tempest Conduit
 - Relic - Pulsing Heart
 
-Fixed Items spawns - conditional rewards
+Fixed Items spawns - conditional rewards:
 
 - Captain's Isignia - Requires Coop to open pressure plate
 
-Injectables
+Injectables:
 
 - Hidden Chamber
   - Archer's Crest
 
-Notes
+Bosses:
+
+- N/A
+
+Notes:
 
 > Starting at main checkpoint is fastest way to Archer's Crest
 

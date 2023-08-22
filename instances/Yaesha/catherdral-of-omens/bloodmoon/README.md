@@ -4,38 +4,38 @@ If you are linked directly to this instance but don't understand how this works 
 
 <hr>
 
-Info
+Info:
 
 - Difficulty: Survivor
 - Powerlevel: N/A
 
-Traits
+Traits:
 
 - N/A
 
-Random Items Spawns
+Random Items Spawns:
 
 - N/A
 
-Fixed Items spawns
+Fixed Items spawns:
 
 - N/A
 
-Fixed Items spawns - conditional rewards
+Fixed Items spawns - conditional rewards:
 
 - Faith Seed
 - Ring of Omens
 - Sagittarius Bow
 
-Injectables
+Injectables:
 
 - N/A
 
-Bosses
+Bosses:
 
 - N/A
 
-Notes
+Notes:
 
 > The Ring of Omens Door and bloodmoon trap door is open.
 

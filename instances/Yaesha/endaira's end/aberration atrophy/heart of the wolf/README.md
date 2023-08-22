@@ -4,16 +4,20 @@ If you are linked directly to this instance but don't understand how this works 
 
 <hr>
 
-Info
+Info:
 
 - Difficulty: Survivor
 - Powerlevel: 21
 
-Random Items Spawns
+Traits:
+
+- N/A
+
+Random Items Spawns:
 
 - Heart of the Wolf
 
-Fixed Items spawns
+Fixed Items spawns:
 
 - Endaira's Endless Loop
 - Tempest Conduit
@@ -21,13 +25,21 @@ Fixed Items spawns
 - Captain's Insignia
 - Relic - Pulsing Heart
 
-Injectables
+Fixed Items spawns - conditional rewards:
+
+- Captain's Insignia
+
+Injectables:
 
 - Aberration Atrophy
   - Burden of the Follower
   - Mutator - Bulletweaver
 
-Notes
+Bosses:
+
+- N/A
+
+Notes:
 
 >
 
