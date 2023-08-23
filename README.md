@@ -71,7 +71,9 @@ All instances are located here <https://github.com/razeedazee/remnant2-instances
 
 Each instance will have 5 identical copies of the instance for each potential character.
 
-⚠️ Exit the game first. This must be done when the game is closed.
+⚠️ Exit to menu first or exit game. This must be done when the save is not loaded.
+
+🔷 The swap can be done while exited to menu. Saves are checked and loaded after loading a character.
 
 **1:** Backup up your saves. They are located here for Steam.
 
