@@ -67,6 +67,10 @@ To export your current save to a selected destination you do this:
 
 ## How to use these instances
 
+⚠️ Turn off cloud sync for this game. If you have issues loading instances, restart steam.
+
+![](info/cloud-sync.png)
+
 All instances are located here <https://github.com/razeedazee/remnant2-instances/tree/main/instances>
 
 Each instance will have 5 identical copies of the instance for each potential character.
