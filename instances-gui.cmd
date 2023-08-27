@@ -1,0 +1,1 @@
+START /D %CD% instances-gui\R2I.exe
