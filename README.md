@@ -111,13 +111,13 @@ You will now have an updated profile and be in your original world.
 
 🔷 You can host these instances for others.
 
-## Instance Gui
+## Instances Gui
 
 A Windows forms .NET app was hacked together in Visual Studio. It's certainly a novice attempt and I'm more than happy to get feedback on why it's so poorly coded.
 
 But, it's reasonably well thought out, tested and I've tried to prevent most gotchas like allowing people to overwrite saves without having backups. This is the real vision of the project. Using this app with a fully stocked set of instances allow anyone to access most items or events without requiring a host.
 
-Donwload the repo <https://github.com/razeedazee/remnant2-instances/archive/refs/heads/main.zip>
+Download the repo <https://github.com/razeedazee/remnant2-instances/archive/refs/heads/main.zip>
 
 Extract is somewhere and double click the `instances-gui.cmd`
 
