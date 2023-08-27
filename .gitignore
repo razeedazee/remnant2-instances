@@ -3,3 +3,4 @@ package-lock.json
 package.json
 src/*
 instances-gui/backups/*
+instances-gui/R2I.exe.WebView2/*
