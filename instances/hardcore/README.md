@@ -35,15 +35,17 @@ Bosses:
 
 Notes:
 
-> Copy over save matching your the new hardcore character number you will make. For example. 2nd slot = `save_1.sav`
-> Make a new hardcore character and load to Ward 13
-> Touch World Stone
-> Exit to menu
+> - Copy over save matching your the new hardcore character number you will make.
 >
-> Load Into your normal character
-> Touch World Stone.
-> All hardcore/Apoc/Nightmare Rewards should be there.
-> Except 3 hardcore rings. Not sure why these are missing.
+>   - For example. 2nd slot = `save_1.sav`
+>   - Make a new hardcore character and load to Ward 13
+>   - Touch World Stone
+>   - Exit to menu
+
+> - Load Into your normal character
+>   - Touch World Stone.
+>   - All hardcore/Apoc/Nightmare Rewards should be there.
+>   - Except 3 hardcore rings. Not sure why these are missing.
 
 ![](info/mini-map.png)
 
