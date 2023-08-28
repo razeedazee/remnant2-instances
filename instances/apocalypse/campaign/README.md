@@ -38,9 +38,11 @@ Bosses:
 
 Notes:
 
-> Load into the save. You will be in Ward 13
-> Touch the World Stone after loading into Ward 13.
-> Back out of World Stone and go talk to merchants.
+> - Load into the save. You will be in Ward 13
+>
+> - Touch the World Stone after loading into Ward 13.
+>
+> - Back out of World Stone and go talk to merchants.
 
 ![](info/mini-map.png)
 

@@ -35,9 +35,8 @@ Bosses:
 
 Notes:
 
-> Make a new hardcore character then exit game.
-> Copy over save matching your hardcore character number.
-> Load Hardcore Character into World
+> Copy over save matching your the new hardcore character number you will make. For example. 2nd slot = `save_1.sav`
+> Make a new hardcore character and load to Ward 13
 > Touch World Stone
 > Exit to menu
 >
