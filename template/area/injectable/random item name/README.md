@@ -37,6 +37,8 @@ Notes:
 
 >
 
+![](info/info.png)
+
 ![](info/mini-map.png)
 
-![](info/info.png)
+![](info/travel-map.png)
