@@ -6,6 +6,7 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
+- Area name
 - Difficulty: Survivor
 - Powerlevel: 1/5
 
