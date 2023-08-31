@@ -6,6 +6,7 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
+- Ward 13
 - Difficulty: Survivor
 - Powerlevel: N/A
 
@@ -39,6 +40,8 @@ Notes:
 > - Click on a hand and examine the finger to drop the ring for 250 scrap.
 > - Cass has materials if you need to buy stuff.
 
+![](info/info.png)
+
 ![](info/mini-map.png)
 
-![](info/info.png)
+![](info/travel-map.png)
