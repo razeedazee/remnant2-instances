@@ -6,9 +6,9 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
-- Malefic Gallery
+- Beatific Palace
 - Difficulty: Survivor
-- Powerlevel: 5
+- Powerlevel: 1/5
 
 Traits:
 
@@ -24,7 +24,7 @@ Fixed Items spawns:
 
 Fixed Items spawns - conditional rewards:
 
-- Faelin's Sigil - Return to Faelin after killing Faerin (see Faelin Sigil instance)
+- Faelin's Sigil - Speak to Faelin
 
 Injectables:
 
@@ -32,7 +32,7 @@ Injectables:
 
 Bosses:
 
-- Faerin
+- N/A
 
 Notes:
 
