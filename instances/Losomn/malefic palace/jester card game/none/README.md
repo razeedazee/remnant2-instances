@@ -24,8 +24,9 @@ Fixed Items spawns:
 
 Fixed Items spawns - conditional rewards:
 
-- Aberration - Firth: The Oath Keeper
+- Aberration - Firth: The Oath Keeper - Daemon Card
   - Mutator - Misfortune
+- One-Eye Joker Idol - Joker Card
 
 Injectables:
 
