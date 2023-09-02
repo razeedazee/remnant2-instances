@@ -8,7 +8,8 @@ Info:
 
 - Beatific Gallery
 - Difficulty: Survivor
-- Powerlevel: 5
+- Power level: 5
+- Checkpoint: No
 
 Traits:
 
@@ -34,6 +35,10 @@ Bosses:
 
 - Faelin
   - Imposter's Heart - Crafting Material
+
+Checkpoint:
+
+- N/A
 
 Notes:
 
