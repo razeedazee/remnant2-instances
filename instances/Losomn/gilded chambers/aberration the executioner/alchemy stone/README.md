@@ -6,7 +6,7 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
-- Gilded Chamberss
+- Gilded Chambers
 - Difficulty: Survivor
 - Power level: 4
 - Checkpoint: Yes
@@ -25,28 +25,37 @@ Fixed Items spawns:
 
 Fixed Items spawns - conditional rewards:
 
-- Crown of the Red Prince - Get killing blow with the Assassin's Dagger
-- Bloody Steel Splinter - Pay tribute using the 3 coins in your inventory in the dialogue options
+- N/A
 
 Injectables:
 
 - Aberration - The Executioner
   - Mutator - Steadfast
-  - Sapphire Stone
+  - Sapphire Dreamstone
   - Ornate Flail
 
 Bosses:
 
 - The Red Prince
   - Forlorn Fragment - Crafting Material
+  - Crown of the Red Prince - Armour Head - Get killing blow with the Assassin's Dagger
+  - Bloody Steel Splinter - Pay tribute using the 3 coins in your inventory in the dialogue options
 
 Checkpoint:
 
-- Outisde Red Prince throne room.
+- Outside Red Prince throne room.
+
+Quest items relevant to instance:
+
+- In Inventory
+  - 3 Crimson King Coins - Dialogue option for the Red Prince to get alt kill rewards.
+- Interactions
+  - N/A
 
 Notes:
 
-> Checkpoint is fasteest for Red Prince and Aberration.
+> - Checkpoint is fastest for Red Prince and Aberration.
+> - No Council Chamber in this instance. Must have Assassan's Dagger weapon already
 
 ![](info/info.png)
 

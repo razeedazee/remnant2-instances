@@ -8,7 +8,7 @@ Info:
 
 - Gilded Chambers
 - Difficulty: Survivor
-- Power level:4
+- Power level: 4
 - Checkpoint: Yes
 
 Traits:
@@ -25,8 +25,7 @@ Fixed Items spawns:
 
 Fixed Items spawns - conditional rewards:
 
-- Crown of the Red Prince - Get killing blow with the Assassin's Dagger
-- Bloody Steel Splinter - Pay tribute using the 3 coins in your inventory in the dialogue options
+- N/A
 
 Injectables:
 
@@ -38,12 +37,15 @@ Injectables:
 Bosses:
 
 - The Red Prince
+  - Forlorn Fragment - Crafting Material
+  - Crown of the Red Prince - Armour Head - Get killing blow with the Assassin's Dagger
+  - Bloody Steel Splinter - Pay tribute using the 3 coins in your inventory in the dialogue options
 
 Checkpoint:
 
 - Outside Red Prince throne room.
 
-Quest Items:
+Quest items relevant to instance:
 
 - In Inventory
   - 3 Crimson King Coins - Dialogue option for the Red Prince to get alt kill rewards.
