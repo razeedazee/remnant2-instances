@@ -17,7 +17,7 @@ Traits:
 
 Random Items Spawns:
 
-- Fae Shaman Ring
+- Alchemy Stone
 
 Fixed Items spawns:
 

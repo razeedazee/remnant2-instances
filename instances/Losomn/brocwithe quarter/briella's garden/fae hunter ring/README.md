@@ -6,28 +6,28 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
-- The Great Hall
+- Area name
 - Difficulty: Survivor
-- Power level: 2
-- Checkpoint: No
+- Power level: 1/5
+- Checkpoint: Yes/No
 
 Traits:
 
-- Glutton - Eat a downed coop player during the Feat Event
+- N/A
 
-Random item Spawns:
-
-- Fae Warrior Ring
-
-Fixed item spawns:
+Random Items Spawns:
 
 - N/A
 
-Fixed item spawns - conditional rewards:
+Fixed Items spawns:
 
-- Bone Chopper - Complete Feast Event and go down dumb waiters behind NPC
+- N/A
 
-Injectable:
+Fixed Items spawns - conditional rewards:
+
+- N/A
+
+Injectables:
 
 - N/A
 
@@ -39,7 +39,7 @@ Checkpoint:
 
 - N/A
 
-Quest items relevant to instance:
+Quest Items:
 
 - In Inventory
   - N/A
@@ -48,7 +48,7 @@ Quest items relevant to instance:
 
 Notes:
 
-> The Ravenous Medallion was used to open the door as there is no Web in this instance
+>
 
 ![](info/info.png)
 
