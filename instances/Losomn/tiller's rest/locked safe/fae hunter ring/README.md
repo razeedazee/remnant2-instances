@@ -38,6 +38,7 @@ Bosses:
 Notes:
 
 > Safe code is `5813`
+> You can jump into tunnel where the Alchemist armour set and Drakestone Pearl ring is. You have to jump into the edge of the wooden beams and they nudge you forward to make the jump. Go left in the area to make the monster spawn which you kill for the Drakestone Pearl ring. Then collect the armour.
 
 ![](info/info.png)
 
