@@ -15,19 +15,19 @@ Traits:
 
 - N/A
 
-Random Items Spawns:
+Random item Spawns:
 
 - N/A
 
-Fixed Items spawns:
+Fixed item spawns:
 
 - N/A
 
-Fixed Items spawns - conditional rewards:
+Fixed item spawns - conditional rewards:
 
 - N/A
 
-Injectables:
+Injectable:
 
 - N/A
 
@@ -38,6 +38,13 @@ Bosses:
 Checkpoint:
 
 - N/A
+
+Quest items relevant to instance:
+
+- In Inventory
+  - N/A
+- Interactions
+  - N/A
 
 Notes:
 

@@ -15,19 +15,19 @@ Traits:
 
 - N/A
 
-Random Items Spawns:
+Random item Spawns:
 
 - Alchemy Stone
 
-Fixed Items spawns:
+Fixed item spawns:
 
 - N/A
 
-Fixed Items spawns - conditional rewards:
+Fixed item spawns - conditional rewards:
 
 - N/A
 
-Injectables:
+Injectable:
 
 - Aberration - The Executioner
   - Mutator - Steadfast
