@@ -6,7 +6,7 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
-- Area name
+- Tiller's Rest
 - Difficulty: Survivor
 - Powerlevel: 1/5
 
@@ -16,19 +16,20 @@ Traits:
 
 Random Items Spawns:
 
-- N/A
+- Fae Hunter Ring
 
 Fixed Items spawns:
 
-- N/A
+- Spirit Wisp Amulet
 
 Fixed Items spawns - conditional rewards:
 
-- N/A
+- Outcast Ring - Give the Spirit Wisp Amulet to the npc behind the bars
 
 Injectables:
 
-- N/A
+- Locked Safe
+  - Rusted Heirloom
 
 Bosses:
 
@@ -36,7 +37,7 @@ Bosses:
 
 Notes:
 
->
+> Safe code is `5813`
 
 ![](info/info.png)
 
