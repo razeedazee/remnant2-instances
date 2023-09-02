@@ -8,7 +8,8 @@ Info:
 
 - Ward 13
 - Difficulty: Survivor
-- Powerlevel: N/A
+- Power level: N/A
+- Checkpoint: No
 
 Traits:
 
