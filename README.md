@@ -14,9 +14,11 @@ This project will allow PC players to access events and items when the online co
 
 The long term goal of this project is to have a template structure for saves and information that integrates with the [instances gui](https://github.com/razeedazee/remnant2-instances#instances-gui) Windows forms .NET application. This is why I did not just dump all my personal save here and the current database of instances is far from complete.
 
-For example, instead of uploading my Apoc power level 21 save for an event I try to make a survivor power level 1/5 version with. Trying to do things like having a quest item you can fully at the point of that instance. For example, Being at the Red Prince checkpoint save, out the the throne room, with the Assassin's Dagger quest item, 3 Crimson King's coin and Nimue's retreat available via the World Stone.
+For example, instead of uploading my Apoc power level 21 save for an event I try to make a survivor power level 1/5 version. Trying to do things like having a quest item collected and available at the point of that instance.
 
-Well templated save instances with a user friendly UI built with native Windows .NET 7
+For example, Being at the Red Prince checkpoint save, outside the the throne room, with the Assassin's Dagger quest item, 3 Crimson King's coin and Nimue's retreat available via the World Stone. This will allow you to at acquire all Red Prince Rewards from reloading a single instance.
+
+Well templated save instances with a user friendly UI built with native Windows .NET 7.
 
 ## How does this work?
 
