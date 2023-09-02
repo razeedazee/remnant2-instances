@@ -1,6 +1,24 @@
-## How does this work?
+# Remnant 2 Instances - reusable and configured save game instances
 
-⚠️ All of these instances are targeting normal (non hardcore) characters.
+## Disclaimer - Here be Dragons
+
+⚠️ The majority of these instances are targeting normal (non hardcore) characters with customized instances to access items, traits, rewards and events. In principle this is like multiplayer worlds without the required of coop host. You self host. This is not modding or tampering with the game or files. Anyone can host these saves for themselves or in coop and they can and do provide valid avenues to fixing certain issues like bugged achievements and account rewards.
+
+⚠️ There are some difficulty linked instances and profiles which should be used with caution as their primary function is testing/fixing and they may provide you achievements and rewards you wanted to acquire in more a traditional way. They can be used to bypass play through requirements for certain account rewards.
+
+⚠️ If you understand this I leave the rest up to your personal choice though I would encourage people to at least try to play the game and enjoy the experience as it was intended by the developers before using those specific saves and profiles.
+
+## What's the point of this?
+
+This project will allow PC players to access events and items when the online community is quiet or the game is less popular. It's a Just way to be make players a little more self reliant and less dependent on mulitplayer or the good graces of other players.
+
+The long term goal of this project is to have a template structure for saves and information that integrates with the [instances gui](https://github.com/razeedazee/remnant2-instances#instances-gui) Windows forms .NET application. This is why I did not just dump all my personal save here and the current database of instances is far from complete.
+
+For example, instead of uploading my Apoc power level 21 save for an event I try to make a survivor power level 1/5 version with. Trying to do things like having a quest item you can fully at the point of that instance. For example, Being at the Red Prince checkpoint save, out the the throne room, with the Assassin's Dagger quest item, 3 Crimson King's coin and Nimue's retreat available via the World Stone.
+
+Well templated save instances with a user friendly UI built with native Windows .NET 7
+
+## How does this work?
 
 Your saves come in two parts.
 
@@ -113,16 +131,26 @@ You will now have an updated profile and be in your original world.
 
 ## Instances Gui
 
-A Windows forms .NET app was hacked together in Visual Studio. It's certainly a novice attempt and I'm more than happy to get feedback on why it's so poorly coded.
+Work in progress. A Windows forms .NET app was hacked together in Visual Studio. It's certainly a novice attempt and I'm more than happy to get feedback on why it's so poorly coded.
 
-But, it's reasonably well thought out, tested and I've tried to prevent most gotchas like allowing people to overwrite saves without having backups. This is the real vision of the project. Using this app with a fully stocked set of instances allow anyone to access most items or events without requiring a host.
+But, it's reasonably well thought out, tested, fucntional and I've tried to prevent most gotchas like allowing people to overwrite saves without having backups. This is the real vision of the project.
+
+Using this app with a fully stocked set of instances allows anyone to access most items or events without requiring a host.
 
 Download the repo <https://github.com/razeedazee/remnant2-instances/archive/refs/heads/main.zip>
 
-Extract is somewhere and double click the `instances-gui.cmd`
+🔷 You might need to download and install [Microsoft .NET 6.0](https://dotnet.microsoft.com/en-us/download) or greater first. The app will tell you when you attempt to run it.
+
+Extract it somewhere and double click the `instances-gui.cmd`
 
 ![](info/instances-gui.png)
 
+Coming soon...
+
+A built in method to update instances at the repo is updated.
+
 ## Need more help?
+
+Mostly just me there, if you need help join and ping me.
 
 <https://discord.gg/dm5bnKdd3>
