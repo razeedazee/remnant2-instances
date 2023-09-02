@@ -6,27 +6,28 @@ If you are linked directly to this instance but don't understand how this works 
 
 Info:
 
-- Area name
+- Cotton's Kiln
 - Difficulty: Survivor
-- Powerlevel: 2
+- Power level: 2
+- Checkpoint: Yes
 
 Traits:
 
 - N/A
 
-Random Items Spawns:
+Random item Spawns:
 
 - Stone of MaleVolence
 
-Fixed Items spawns:
+Fixed item spawns:
 
 - N/A
 
-Fixed Items spawns - conditional rewards:
+Fixed item spawns - conditional rewards:
 
 - N/A
 
-Injectables:
+Injectable:
 
 - Aberration - Gorge
   - Mutator - Twisting Wounds
@@ -36,6 +37,17 @@ Bosses:
 
 - Gwendil: The Unburnt
   - Alkahest Powder - Crafting Material
+
+Checkpoint:
+
+- Gwendil: The Unburnt
+
+Quest items relevant to instance:
+
+- In Inventory
+  - N/A
+- Interactions
+  - N/A
 
 Notes:
 
