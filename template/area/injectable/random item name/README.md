@@ -8,7 +8,8 @@ Info:
 
 - Area name
 - Difficulty: Survivor
-- Powerlevel: 1/5
+- Power level: 1/5
+- Checkpoint: Yes/No
 
 Traits:
 
@@ -31,6 +32,10 @@ Injectables:
 - N/A
 
 Bosses:
+
+- N/A
+
+Checkpoint:
 
 - N/A
 

@@ -8,7 +8,8 @@ Info:
 
 - Gilded Chamberss
 - Difficulty: Survivor
-- Powerlevel: 4
+- Power level: 4
+- Checkpoint: Yes
 
 Traits:
 
@@ -39,9 +40,13 @@ Bosses:
 - The Red Prince
   - Forlorn Fragment - Crafting Material
 
+Checkpoint:
+
+- Outisde Red Prince throne room.
+
 Notes:
 
->
+> Checkpoint is fasteest for Red Prince and Aberration.
 
 ![](info/info.png)
 
