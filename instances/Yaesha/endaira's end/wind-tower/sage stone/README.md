@@ -7,7 +7,7 @@ If you are linked directly to this instance but don't understand how this works 
 Info:
 
 - Endaira's End
-- Difficulty: Survivor
+- Difficulty: Veteran
 - Power level: 21
 - Checkpoint: Yes
 
@@ -17,7 +17,7 @@ Traits:
 
 Random item Spawns:
 
-- Heart of the Wolf
+- Sage Stone
 
 Fixed item spawns:
 
@@ -28,13 +28,13 @@ Fixed item spawns:
 
 Fixed item spawns - conditional rewards:
 
-- Captain's Insignia (requires 1 coop player to hold pressure plate open)
+- Captain's Insignia - unsolved - requires 1 coop player to hold pressure plate open
 
 Injectable:
 
-- Aberration Atrophy
-  - Burden of the Follower
-  - Mutator - Bulletweaver
+- Flute Tower
+  - Wind Hollow Circlet ring - solved - play notes in correct order at flute tower
+  - Band Band - solved - requires one additional coop player to solve flute tower
 
 Bosses:
 
@@ -53,7 +53,7 @@ Quest items relevant to instance:
 
 Notes:
 
->
+> The Flute tower puzzle is completelt solved. You just collect items.
 
 ![](info/info.png)
 
