@@ -49,6 +49,8 @@ Notes:
 
 ## Inventory Table
 
+### RNG items unique to world
+
 |     Cass RNG Item     | Item Type |   Usage   |
 | :-------------------: | :-------: | :-------: |
 |    Mechanic's Cog     |   Ring    | equipment |
@@ -56,6 +58,8 @@ Notes:
 |    Amber Moonstone    |   Ring    | equipment |
 |     Blessed Ring      |   Ring    | equipment |
 |    Ring of Anguish    |   Ring    | equipment |
+
+### Standards materials and special items
 
 |      Material      |  Material Type   |            Usage            |
 | :----------------: | :--------------: | :-------------------------: |
@@ -72,6 +76,8 @@ Notes:
 | Bloodmoon Essence  |     Crafting     |       Bloodmoon Altar       |
 |   Nimue's Dream    |     Teleport     |    Collect Anamy’s Echo     |
 |  Huntress's Dream  |     Teleport     | Collect Sacred Hunt Feather |
+
+### Collectable Crafting Materials
 
 |             Material             |       Craftable Item       |     Type     |
 | :------------------------------: | :------------------------: | :----------: |
