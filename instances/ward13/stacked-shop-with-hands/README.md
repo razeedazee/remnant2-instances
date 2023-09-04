@@ -49,6 +49,14 @@ Notes:
 
 ## Inventory Table
 
+|     Cass RNG Item     | Item Type |   Usage   |
+| :-------------------: | :-------: | :-------: |
+|    Mechanic's Cog     |   Ring    | equipment |
+| Burden of the Gambler |   Ring    | equipment |
+|    Amber Moonstone    |   Ring    | equipment |
+|     Blessed Ring      |   Ring    | equipment |
+|    Ring of Anguish    |   Ring    | equipment |
+
 |      Material      |  Material Type   |            Usage            |
 | :----------------: | :--------------: | :-------------------------: |
 |        Iron        |     Upgrade      |           Weapons           |
@@ -64,7 +72,6 @@ Notes:
 | Bloodmoon Essence  |     Crafting     |       Bloodmoon Altar       |
 |   Nimue's Dream    |     Teleport     |    Collect Anamy’s Echo     |
 |  Huntress's Dream  |     Teleport     | Collect Sacred Hunt Feather |
-|                    |                  |                             |
 
 |             Material             |       Craftable Item       |     Type     |
 | :------------------------------: | :------------------------: | :----------: |
