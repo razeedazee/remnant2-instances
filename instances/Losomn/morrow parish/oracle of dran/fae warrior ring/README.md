@@ -7,14 +7,14 @@ If you are linked directly to this instance but don't understand how this works 
 Info:
 
 - Morrow Parish
-  - Morrow Sanatorium
+  - Oracle's Refuge
 - Difficulty: Survivor
-- Power level: 2
-- Checkpoint: Yes/No
+- Power level: 3
+- Checkpoint: No
 
 Traits:
 
-- N/A
+- Recovery - Speak to Oracle
 
 Random item Spawns:
 
@@ -22,16 +22,19 @@ Random item Spawns:
 
 Fixed item spawns:
 
-- Shock Device
+- N/A
 
 Fixed item spawns - conditional rewards:
 
-- Double Barrel - Locked safe
-- Alumni Ring (Kill Nightweaver - Done)
+- Quilted Heart - Speak to Oracle
+- All-Seeing Eye - Speak to Oracle
 
 Injectable:
 
-- N/A
+- Oracle of Dran
+  - Trait - Recovery
+  - Relic - Quilted Heart
+  - All-Seeing Eye.
 
 Bosses:
 
@@ -50,7 +53,7 @@ Quest items relevant to instance:
 
 Notes:
 
-> Safe combination is always 2971
+> Speak to Oracle until you receive all items.
 
 ![](info/info.png)
 
