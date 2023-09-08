@@ -1,0 +1,20 @@
+.markdown-body {
+    box-sizing: border-box;
+    min-width: 200px;
+    max-width: 95%;
+    margin: auto;
+    padding: 10 0 10 0;
+}
+
+.markdown-body table {
+    border: 3px solid #686767;
+}
+
+.markdown-body thead {
+    border-bottom: 3px solid #686767;
+}
+
+.markdown-body th {
+    background-color: rgb(116, 103, 95);
+    color: rgb(5, 5, 5);
+}
