@@ -18,6 +18,7 @@
 .markdown-body th {
     background-color: rgb(116, 103, 95);
     color: rgb(5, 5, 5);
+    white-space: nowrap;
 }
 
 .markdown-body tbody {}
@@ -28,4 +29,20 @@
     table-layout: fixed;
     width: 100%;
     white-space: nowrap;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.image {
+    flex-basis: 33.33%;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.image img {
+    width: 100%;
 }

@@ -10,11 +10,17 @@ If you are linked directly to this instance but don't understand how this works 
 | :------: | :---------: | :--------: | :---------: | :--------: |
 | Ward 13  |     N/A     |  Survivor  |     N/A     |     No     |
 
-![](info/info.png)
-
-![](info/mini-map.png)
-
-![](info/travel-map.png)
+<div class="container">
+    <div class="image">
+        <a href="info/info.png" data-lightbox="info" data-title="info"><img src="info/info.png" alt="mini-map"></a>
+    </div>
+    <div class="image">
+        <a href="info/mini-map.png" data-lightbox="info" data-title="info"><img src="info/mini-map.png" alt="mini-map"></a>
+    </div>
+    <div class="image">
+        <a href="info/travel-map.png" data-lightbox="info" data-title="info"><img src="info/travel-map.png" alt="travel-map"></a>
+    </div>
+</div>
 
 ### Traits
 
@@ -22,19 +28,19 @@ If you are linked directly to this instance but don't understand how this works 
 | :--: | :-------: |
 | N/A  |    N/A    |
 
-### Random item Spawns:
+### Random item Spawns
 
 | Item | type | Location |
 | :--: | :--: | :------: |
 | N/A  | N/A  |   N/A    |
 
-### Fixed item spawns:
+### Fixed item spawns
 
 | Item | type | Location |
 | :--: | :--: | :------: |
 | N/A  | N/A  |   N/A    |
 
-##### Fixed item spawns - conditional rewards:
+##### Fixed item spawns - conditional rewards
 
 | Item | type | Condition | Location |
 | :--: | :--: | :-------: | :------: |
@@ -58,7 +64,7 @@ If you are linked directly to this instance but don't understand how this works 
 | :------: | :---: |
 |   N/A    |  N/A  |
 
-### Quest items relevant to instance:
+### Quest items relevant to instance
 
 | In Inventory | Interactions |
 | :----------: | :----------: |
