@@ -8,6 +8,7 @@
 
 .markdown-body table {
     border: 3px solid #686767;
+    width: 100%;
 }
 
 .markdown-body thead {
@@ -17,4 +18,14 @@
 .markdown-body th {
     background-color: rgb(116, 103, 95);
     color: rgb(5, 5, 5);
+}
+
+.markdown-body tbody {}
+
+.markdown-body tr {}
+
+.markdown-body td {
+    table-layout: fixed;
+    width: 100%;
+    white-space: nowrap;
 }

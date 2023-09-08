@@ -4,42 +4,11 @@ If you are linked directly to this instance but don't understand how this works 
 
 <hr>
 
-Info:
+### Info
 
-- Ward 13
-- Difficulty: Survivor
-- Power level: N/A
-- Checkpoint: No
-
-Traits:
-
-- N/A
-
-Random Items Spawns:
-
-- N/A
-
-Fixed Items spawns:
-
-- N/A
-
-Fixed Items spawns - conditional rewards:
-
-- N/A
-
-Injectables:
-
-- N/A
-
-Bosses:
-
-- N/A
-
-Notes:
-
-> - Hands are already in the inventory already; you don't need pick them up.
-> - Click on a hand and examine the finger to drop the ring for 250 scrap.
-> - Cass has materials if you need to buy stuff.
+| Location | Sublocation | Difficulty | Power level | Checkpoint |
+| :------: | :---------: | :--------: | :---------: | :--------: |
+| Ward 13  |     N/A     |  Survivor  |     N/A     |     No     |
 
 ![](info/info.png)
 
@@ -47,9 +16,61 @@ Notes:
 
 ![](info/travel-map.png)
 
-## Inventory Table
+### Traits
 
-### RNG items unique to world
+| Name | Condition |
+| :--: | :-------: |
+| N/A  |    N/A    |
+
+### Random item Spawns:
+
+| Item | type | Location |
+| :--: | :--: | :------: |
+| N/A  | N/A  |   N/A    |
+
+### Fixed item spawns:
+
+| Item | type | Location |
+| :--: | :--: | :------: |
+| N/A  | N/A  |   N/A    |
+
+##### Fixed item spawns - conditional rewards:
+
+| Item | type | Condition | Location |
+| :--: | :--: | :-------: | :------: |
+| N/A  | N/A  |    N/A    |          |
+
+### Injectable
+
+| Name |     Unique Rewards     |
+| :--: | :--------------------: |
+| N/A  | <ul><li> N/A</li></ul> |
+
+### Bosses
+
+| Name | Condition | Reward | Type |
+| :--: | :-------: | :----: | :--: |
+| N/A  |    N/A    |  N/A   | N/A  |
+
+## Checkpoint
+
+| Locality | notes |
+| :------: | :---: |
+|   N/A    |  N/A  |
+
+### Quest items relevant to instance:
+
+| In Inventory | Interactions |
+| :----------: | :----------: |
+|     N/A      |     N/A      |
+
+### Notes
+
+> - Hands are already in the inventory already; you don't need pick them up.
+> - Click on a hand and examine the finger to drop the ring for 250 scrap.
+> - Cass has materials if you need to buy stuff.
+
+### Inventory Table
 
 |     Cass RNG Item     | Item Type |   Usage   |
 | :-------------------: | :-------: | :-------: |
@@ -58,8 +79,6 @@ Notes:
 |    Amber Moonstone    |   Ring    | equipment |
 |     Blessed Ring      |   Ring    | equipment |
 |    Ring of Anguish    |   Ring    | equipment |
-
-### Standards materials and special items
 
 |      Material      |  Material Type   |            Usage            |
 | :----------------: | :--------------: | :-------------------------: |
@@ -76,8 +95,6 @@ Notes:
 | Bloodmoon Essence  |     Crafting     |       Bloodmoon Altar       |
 |   Nimue's Dream    |     Teleport     |    Collect Anamy’s Echo     |
 |  Huntress's Dream  |     Teleport     | Collect Sacred Hunt Feather |
-
-### Collectable Crafting Materials
 
 |             Material             |       Craftable Item       |     Type     |
 | :------------------------------: | :------------------------: | :----------: |
