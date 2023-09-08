@@ -22,29 +22,29 @@ If you are linked directly to this instance but don't understand how this works 
 | :--: | :-------: |
 | N/A  |    N/A    |
 
-### Random item Spawns:
+### Random item Spawns
 
 | Item | type | Location |
 | :--: | :--: | :------: |
 | N/A  | N/A  |   N/A    |
 
-### Fixed item spawns:
+### Fixed item spawns
 
 | Item | type | Location |
 | :--: | :--: | :------: |
 | N/A  | N/A  |   N/A    |
 
-### Fixed item spawns - conditional rewards:
+### Fixed item spawns - conditional rewards
 
-| Item | type | Condition | Location |
-| :--: | :--: | :-------: | :------: |
-| N/A  | N/A  |    N/A    |          |
+| Item | type | Location | Condition |
+| :--: | :--: | :------: | :-------: |
+| N/A  | N/A  |   N/A    |    N/A    |
 
 ### Injectable
 
-| Name |     Unique Rewards     |
-| :--: | :--------------------: |
-| N/A  | <ul><li> N/A</li></ul> |
+| Name |    Unique Rewards     |
+| :--: | :-------------------: |
+| N/A  | <ul><li>N/A</li></ul> |
 
 ### Bosses
 
@@ -58,7 +58,7 @@ If you are linked directly to this instance but don't understand how this works 
 | :------: | :---: |
 |   N/A    |  N/A  |
 
-### Quest items relevant to instance:
+### Quest items relevant to instance
 
 | In Inventory | Interactions |
 | :----------: | :----------: |
