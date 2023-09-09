@@ -10,15 +10,15 @@ If you are linked directly to this instance but don't understand how this works 
 | :---------------: | :---------: | :--------: | :---------: | :--------: |
 | Colosseum of Ruin |     N/A     |  Survivor  |      5      |     no     |
 
-<div class="container">
-    <div class="image">
-        <a href="info/info.png" data-lightbox="info" data-title="info"><img src="info/info.png" alt="mini-map"></a>
+<div style="display:flex;flex-direction:row;flex-wrap: wrap;">
+    <div style="flex-basis: 33.33%;padding: 5px;box-sizing: border-box;">
+        <a href="info/info.png" data-lightbox="info" data-title="info"><img src="info/info.png" alt="mini-map" style="width: 100%;"></a>
     </div>
-    <div class="image">
-        <a href="info/mini-map.png" data-lightbox="info" data-title="info"><img src="info/mini-map.png" alt="mini-map"></a>
+    <div style="flex-basis: 33.33%;padding: 5px;box-sizing: border-box;">
+        <a href="info/mini-map.png" data-lightbox="info" data-title="info"><img src="info/mini-map.png" alt="mini-map" style="width: 100%;"></a>
     </div>
-    <div class="image">
-        <a href="info/travel-map.png" data-lightbox="info" data-title="info"><img src="info/travel-map.png" alt="travel-map"></a>
+    <div style="flex-basis: 33.33%;padding: 5px;box-sizing: border-box;">
+        <a href="info/travel-map.png" data-lightbox="info" data-title="info"><img src="info/travel-map.png" alt="travel-map" style="width: 100%;"></a>
     </div>
 </div>
 
