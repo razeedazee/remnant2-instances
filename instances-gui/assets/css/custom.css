@@ -6,43 +6,17 @@
     padding: 10 0 10 0;
 }
 
-.markdown-body table {
-    border: 3px solid #686767;
-    width: 100%;
-}
+.markdown-body table {}
 
-.markdown-body thead {
-    border-bottom: 3px solid #686767;
-}
-
-.markdown-body th {
-    background-color: rgb(116, 103, 95);
-    color: rgb(5, 5, 5);
-    white-space: nowrap;
-}
+.markdown-body thead {}
 
 .markdown-body tbody {}
 
-.markdown-body tr {}
+.markdown-body th {
+    background-color: rgb(116, 113, 113);
+}
 
 .markdown-body td {
-    table-layout: fixed;
-    width: 100%;
+    width: 10%;
     white-space: nowrap;
-}
-
-.container {
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.image {
-    flex-basis: 33.33%;
-    padding: 5px;
-    box-sizing: border-box;
-}
-
-.image img {
-    width: 100%;
 }
