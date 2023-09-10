@@ -13,9 +13,10 @@
 .markdown-body tbody {}
 
 .markdown-body th {
-    background-color: rgb(116, 113, 113);
+    background-color: #3d375e7f;
+    color: #bdbdbd;
 }
 
 .markdown-body td {
-    width: 5%;
+    width: 1%;
 }
