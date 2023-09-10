@@ -2,7 +2,7 @@
 
 If you are linked directly to this instance but don't understand how this works then read the [readme](https://github.com/razeedazee/remnant2-instances/blob/main/README.md)
 
-<hr>
+---
 
 ### Info
 
@@ -32,7 +32,7 @@ If you are linked directly to this instance but don't understand how this works 
 | :--: | :--: | :------: |
 | N/A  | N/A  |   N/A    |
 
-##### Fixed item spawns - conditional rewards
+### Fixed item spawns - conditional rewards
 
 | Item | type | Condition | Location |
 | :--: | :--: | :-------: | :------: |
@@ -40,9 +40,9 @@ If you are linked directly to this instance but don't understand how this works 
 
 ### Injectable
 
-| Name |     Unique Rewards     |
-| :--: | :--------------------: |
-| N/A  | <ul><li> N/A</li></ul> |
+| Name |          Unique Rewards           |
+| :--: | :-------------------------------: |
+| N/A  | <ul><li>N/A</li><li>N/A</li></ul> |
 
 ### Bosses
 
