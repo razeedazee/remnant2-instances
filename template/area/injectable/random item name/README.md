@@ -6,21 +6,13 @@ If you are linked directly to this instance but don't understand how this works 
 
 ### Info
 
-| Location  | Sublocation | Difficulty | Power level | Checkpoint |
-| :-------: | :---------: | :--------: | :---------: | :--------: |
-| Area name |     N/A     |  Survivor  |     1/5     |   Yes/No   |
+|     Location      | Sublocation | Difficulty | Power level | Checkpoint |
+| :---------------: | :---------: | :--------: | :---------: | :--------: |
+| Colosseum of Ruin |     N/A     |  Survivor  |      5      |     no     |
 
-<div class="container">
-    <div class="image">
-        <a href="info/info.png" data-lightbox="info" data-title="info"><img src="info/info.png" alt="mini-map"></a>
-    </div>
-    <div class="image">
-        <a href="info/mini-map.png" data-lightbox="info" data-title="info"><img src="info/mini-map.png" alt="mini-map"></a>
-    </div>
-    <div class="image">
-        <a href="info/travel-map.png" data-lightbox="info" data-title="info"><img src="info/travel-map.png" alt="travel-map"></a>
-    </div>
-</div>
+|                                                    Info                                                     |                                                       Minimap                                                        |                                                         Travel Map                                                         |
+| :---------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------: |
+| <a href="info/info.png" data-lightbox="info" data-title="info"><img src="info/info.png" alt="mini-map"></a> | <a href="info/mini-map.png" data-lightbox="info" data-title="info"><img src="info/mini-map.png" alt="mini-map" ></a> | <a href="info/travel-map.png" data-lightbox="info" data-title="info"><img src="info/travel-map.png" alt="travel-map" ></a> |
 
 ### Traits
 
