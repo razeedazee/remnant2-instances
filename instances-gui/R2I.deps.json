@@ -8,51 +8,51 @@
     ".NETCoreApp,Version=v7.0": {
       "R2I/1.0.0": {
         "dependencies": {
-          "Markdig.Signed": "0.33.0",
-          "Microsoft.Web.WebView2": "1.0.1938.49"
+          "Markdig.Signed": "0.37.0",
+          "Microsoft.Web.WebView2": "1.0.2478.35"
         },
         "runtime": {
           "R2I.dll": {}
         }
       },
-      "Markdig.Signed/0.33.0": {
+      "Markdig.Signed/0.37.0": {
         "runtime": {
           "lib/net6.0/Markdig.Signed.dll": {
-            "assemblyVersion": "0.33.0.0",
-            "fileVersion": "0.33.0.0"
+            "assemblyVersion": "0.37.0.0",
+            "fileVersion": "0.37.0.0"
           }
         }
       },
-      "Microsoft.Web.WebView2/1.0.1938.49": {
+      "Microsoft.Web.WebView2/1.0.2478.35": {
         "runtime": {
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Core.dll": {
-            "assemblyVersion": "1.0.1938.49",
-            "fileVersion": "1.0.1938.49"
+            "assemblyVersion": "1.0.2478.35",
+            "fileVersion": "1.0.2478.35"
           },
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.WinForms.dll": {
-            "assemblyVersion": "1.0.1938.49",
-            "fileVersion": "1.0.1938.49"
+            "assemblyVersion": "1.0.2478.35",
+            "fileVersion": "1.0.2478.35"
           },
           "lib/netcoreapp3.0/Microsoft.Web.WebView2.Wpf.dll": {
-            "assemblyVersion": "1.0.1938.49",
-            "fileVersion": "1.0.1938.49"
+            "assemblyVersion": "1.0.2478.35",
+            "fileVersion": "1.0.2478.35"
           }
         },
         "runtimeTargets": {
           "runtimes/win-arm64/native/WebView2Loader.dll": {
             "rid": "win-arm64",
             "assetType": "native",
-            "fileVersion": "1.0.1938.49"
+            "fileVersion": "1.0.2478.35"
           },
           "runtimes/win-x64/native/WebView2Loader.dll": {
             "rid": "win-x64",
             "assetType": "native",
-            "fileVersion": "1.0.1938.49"
+            "fileVersion": "1.0.2478.35"
           },
           "runtimes/win-x86/native/WebView2Loader.dll": {
             "rid": "win-x86",
             "assetType": "native",
-            "fileVersion": "1.0.1938.49"
+            "fileVersion": "1.0.2478.35"
           }
         }
       }
@@ -64,19 +64,19 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Markdig.Signed/0.33.0": {
+    "Markdig.Signed/0.37.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-/BE/XANxmocgEqajbWB/ur4Jei+j1FkXppWH9JFmEuoq8T3xJndkQKZVCW/7lTdc9Ru6kfEAkwSXFOv30EkU2Q==",
-      "path": "markdig.signed/0.33.0",
-      "hashPath": "markdig.signed.0.33.0.nupkg.sha512"
+      "sha512": "sha512-J7Mt1QjKijE7aAK81u5nt4SYPYEvt1odfr4ddMvyOscyNT3PoGfHKKTBB5VBSXJrWZWhfJlcG7hHBLiqawg+nw==",
+      "path": "markdig.signed/0.37.0",
+      "hashPath": "markdig.signed.0.37.0.nupkg.sha512"
     },
-    "Microsoft.Web.WebView2/1.0.1938.49": {
+    "Microsoft.Web.WebView2/1.0.2478.35": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-z8KnFnaTYzhA/ZnyRX0qGfS1NU5ZBJeClAH64F0fVDvdDJTvME7xl6zTJ0Jlfe1BtL3C0NH9xTy64shg2baKdw==",
-      "path": "microsoft.web.webview2/1.0.1938.49",
-      "hashPath": "microsoft.web.webview2.1.0.1938.49.nupkg.sha512"
+      "sha512": "sha512-iDlxm6Gv4CU64ch4nc4DZXLbb5VRYNJb3IjGC+zJdEVIHjqt8Fed3JeThXIhpIwf49ke4e/CULYJXfNiG0sNhg==",
+      "path": "microsoft.web.webview2/1.0.2478.35",
+      "hashPath": "microsoft.web.webview2.1.0.2478.35.nupkg.sha512"
     }
   }
 }
